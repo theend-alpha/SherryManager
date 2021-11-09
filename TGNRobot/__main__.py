@@ -223,7 +223,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_video(
-            START_IMG, caption= "<code>【🇮🇳♡➣𝐓𝐫𝐢𝐬𝐡𝐚➣♡🇮🇳】 is Here For You❤\n𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐈𝐧𝐟𝐨 @JaiHindChatting\nI am Awake Since</code>: <code>{}</code>".format(
+            START_IMG, caption= "<code>【🇮🇳♡➣𝐓𝐫𝐢𝐬𝐡𝐚➣♡🇮🇳】 is Here For You❤\nI am Awake Since</code>: <code>{}</code>".format(
                 uptime            
             ),
             parse_mode=ParseMode.HTML,
