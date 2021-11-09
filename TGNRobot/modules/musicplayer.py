@@ -1,4 +1,4 @@
-__mod_name__ = "TGN Player"
+__mod_name__ = "𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫"
 
 __help__ = """
 =>> *Song Playing* 🎧 
@@ -17,6 +17,6 @@ __help__ = """
 ❍ /userbotjoin - invite assistant to your chat
 ❍ /admincache - Refresh admin list
 =>>   *Use*
-1) Add @TGN_ROBOT in your group to admin with all permission
-2) Add Assistant I'd to your group @TGN_ASSISTANT
+1) Add @DevilTrishaRoBot in your group to admin with all permission
+2) Assistant Auto Join Send /play Command First Tme By Owner
 """
