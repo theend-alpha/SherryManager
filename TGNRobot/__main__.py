@@ -109,7 +109,7 @@ HELP_STRINGS = """
 START_IMG = "https://telegra.ph/file/63d1ee18f81c92d11210e.mp4"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project t.me/JaiHindChatting \
+ You can support the project [𝐑𝐀𝐉](t.me/JaiHindChatting) \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
 IMPORTED = {}
@@ -223,7 +223,7 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_video(
-            START_IMG, caption= "<code>【🇮🇳♡➣𝐓𝐫𝐢𝐬𝐡𝐚➣♡🇮🇳】 is Here For You❤\nI am Awake Since\n𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐈𝐧𝐟𝐨 [𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞](t.me/JaiHindChatting)</code>: <code>{}</code>".format(
+            START_IMG, caption= "<code>【🇮🇳♡➣𝐓𝐫𝐢𝐬𝐡𝐚➣♡🇮🇳】 is Here For You❤\nI am Awake Since\n𝐅𝐨𝐫 𝐌𝐨𝐫𝐞 𝐈𝐧𝐟𝐨 @JaiHindChatting</code>: <code>{}</code>".format(
                 uptime            
             ),
             parse_mode=ParseMode.HTML,
