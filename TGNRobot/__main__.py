@@ -87,7 +87,7 @@ buttons = [
     [
         InlineKeyboardButton(text="𝐒𝐨𝐮𝐫𝐜𝐞 💫", url=f"https://github.com/rakeshyt/TrishaManager"),
         InlineKeyboardButton(
-            text="𝐅𝐞𝐝 𝐂𝐡𝐚𝐭 ⚡", url=f"https://t.me/DevilHackerFed"
+            text="𝐅𝐞𝐝 𝐂𝐡𝐚𝐭 ⚡", url=f"https://t.me/THEDRAGONV6"
         ),
     ],
     [
