@@ -1,36 +1,30 @@
-<h1 align="center"><b> ★ 𝘿𝙚𝙫𝙞𝙡 𝙏𝙧𝙞𝙨𝙝𝙖 ★ </b></h1>
+# 🔥 ★ 𝘿𝙚𝙫𝙞𝙡 𝙏𝙧𝙞𝙨𝙝𝙖 ★
 
-<h4 align="center">𝐀 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥, 𝐒𝐦𝐚𝐫𝐭 𝐀𝐧𝐝 𝐒𝐢𝐦𝐩𝐥𝐞 𝐆𝐫𝐨𝐮𝐩 𝐌𝐚𝐧𝐚𝐠𝐞𝐫 ♻️ + 🎵 𝐆𝐫𝐨𝐮𝐩 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫 <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
-<p align='center'>
-  <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
-  <a href="https://github.com/rakeshyt/DevilTrisha/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
+<h4 align="center">𝗔 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹, 𝗦𝗺𝗮𝗿𝘁 𝗔𝗻𝗱 𝗦𝗶𝗺𝗽𝗹𝗲 𝗚𝗿𝗼𝘂𝗽 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 🛡️ + 🎵 𝗚𝗿𝗼𝘂𝗽 𝗠𝘂𝘀𝗶𝗰 𝗣𝗹𝗮𝘆𝗲𝗿 <br> ... 𝗪𝗿𝗶𝘁𝘁𝗲𝗻 𝗪𝗶𝘁𝗵 𝗣𝘆𝗿𝗼𝗚𝗿𝗮𝗺 𝗔𝗻𝗱 𝗧𝗲𝗹𝗲𝘁𝗵𝗼𝗻...</h4>
+
+<p align="center">
+    𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗔𝗡𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦🎑
+
+<p align="center"><a href="https://t.me/JaiHindChatting"><img align="center" src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
+</p>
+<p align="center"><a href="https://t.me/RYMOFFICIAL"><img align="center" src="https://img.shields.io/badge/Join-Official%20Channel-blue.svg?style=for-the-badge&logo=Telegram">
+</p>
+<p align="center"><a href="https://t.me/JaiHindChatting"><img src="https://telegra.ph/file/06bab8d2aca8660c3b487.jpg" width="300"></a></p>
+
+
+### 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗢𝗻 𝗧𝗲𝗹𝗲𝗚𝗿𝗮𝗺 
+- [🛡️𝐃𝐞𝐯𝐢𝐥𝐓𝐫𝐢𝐬𝐡𝐚🛡️](https://t.me/DevilTrishaRoBot) BOT
+
+
+<p align="center">
+    ## 𝗗𝗘𝗣𝗟𝗢𝗬 𝗢𝗡 𝗛𝗘𝗥𝗢𝗞𝗨 🚀
+
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/rakeshyt/TrishaManager"><img align="center" alt="Heroku" width="52px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
 </p>
 
-<p align="center"><a href="https://t.me/DevilTrishaRoBot"><img src="https://telegra.ph/file/d71608cdca6a2bcb950bf.jpg" width="300"></a></p>
 
-## 𝐀𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐨𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐚𝐬 [@DevilTrishaRoBot](https://t.me/DevilTrishaRoBot)
-
-# ❤️ Support
-<a href="https://t.me/SonalModdingGod"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="t.me/JaiHindChatting"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-
-
-> ⭐️ 𝐓𝐡𝐚𝐧𝐤𝐬 𝐓𝐨 𝐄𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐖𝐡𝐨 𝐒𝐭𝐚𝐫𝐫𝐞𝐝 𝐃𝐞𝐯𝐢𝐥 𝐓𝐫𝐢𝐬𝐡𝐚, 𝐓𝐡𝐚𝐭 𝐢𝐬 𝐓𝐡𝐞 𝐆𝐫𝐞𝐚𝐭𝐞𝐬𝐭 𝐏𝐥𝐞𝐚𝐬𝐮𝐫𝐞 𝐖𝐞 𝐇𝐚𝐯𝐞 !
-
-## 𝘾𝙡𝙞𝙘𝙠 𝙏𝙝𝙚 𝙄𝙢𝙖𝙜𝙚 𝘼𝙣𝙙 𝘿𝙚𝙥𝙡𝙤𝙮 𝙔𝙤𝙪𝙧 𝘽𝙤𝙩
-
-## ✨ Heroku Deploy ✨
-The easiest way to deploy this Bot is via Heroku.
-
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/rakeshyt/TrishaManager"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
-## ✨ 𝐏𝐥𝐞𝐚𝐬𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐇𝐞𝐫𝐞 ✨
 
 ### 𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ⚡
-- [TGN TEAM](https://github.com/Itsunknown-12) 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
+- [𝐃𝐞𝐯𝐢𝐥 𝐇𝐚𝐜𝐤𝐞𝐫🔥](https://t.me/JaiHindChatting) 𝗢𝘄𝗻𝗲𝗿
 
-### 𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ⚡
-- [🕊️⃝🇮🇳★𝐃𝐞𝐯𝐢𝐋😈𝐇𝐚𝐜𝐤𝐞𝐫★🇮🇳⃝🕊️](https://t.me/JaiHindChatting) 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
-
-### 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 & 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🎑
-<a href="https://t.me/JaiHindChatting"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/SonalModdingGod"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+- [TGN TEAM🤙](https://github.com/Itsunknown-12) 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
