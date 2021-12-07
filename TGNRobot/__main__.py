@@ -85,14 +85,13 @@ buttons = [
             text="ᴀᴅᴅ ➣𝐓𝐫𝐢𝐬𝐡𝐚➣ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/DevilTrishaRoBot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="𝗦𝗢𝗨𝗥𝗖𝗘 💫", url=f"https://t.me/JaiHindChatting"),
         InlineKeyboardButton(
-            text="𝗦𝗨𝗣𝗣𝗢𝗥𝗧 ⚡", url=f"https://t.me/JaiHindChatting"
+            text="🔥 𝗦𝗼𝘂𝗿𝗰𝗲 & 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 🔥", url=f"https://t.me/JaiHindChatting"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="𝗢𝗳𝗶𝗶𝗰𝗶𝗮𝗹 𝗖𝗵𝗮𝗻𝗻𝗲𝗹", url=f"https://t.me/RYMOFFICIAL"
+            text="⚡ 𝗢𝗳𝗶𝗶𝗰𝗶𝗮𝗹 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 ⚡", url=f"https://t.me/RYMOFFICIAL"
         ),
     ],
     [
