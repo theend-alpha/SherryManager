@@ -84,6 +84,11 @@ buttons = [
         InlineKeyboardButton(
             text="ᴀᴅᴅ ➣𝐓𝐈𝐑𝐀𝐍𝐆𝐀 🇽 𝔹𝕆𝕋➣ ᴛᴏ ᴜʀ ᴄʜᴀᴛ", url="t.me/Tiranga_Bot?startgroup=true"),
     ],
+     [
+        InlineKeyboardButton(
+            text="🇽 𝐓𝐔𝐓𝐎𝐑𝐈𝐀𝐋 🇽", url=f"https://t.me/bots_tutorial"
+        ),
+    ],
     [
         InlineKeyboardButton(
             text="🔥 𝗦𝗼𝘂𝗿𝗰𝗲 & 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 🔥", url=f"https://t.me/friends_chatting_world"
@@ -92,11 +97,6 @@ buttons = [
     [
         InlineKeyboardButton(
             text="⚡ 𝗢𝗳𝗶𝗶𝗰𝗶𝗮𝗹 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 ⚡", url=f"https://t.me/clanlordxfed"
-        ),
-    ],
-     [
-        InlineKeyboardButton(
-            text="🇽 𝐓𝐔𝐓𝐎𝐑𝐈𝐀𝐋 🇽", url=f"https://t.me/clanlordxfed"
         ),
     ],
     [
