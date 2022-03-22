@@ -5,13 +5,13 @@ from pyrogram.types import *
 from TGNRobot.conf import get_str_key
 from TGNRobot import pbot
 
-REPO_TEXT = "**A Powerful [BOT](t.me/DevilTrishaRoBot) to Make Your Groups Secured and Organized ! \n\n↼ Øwñêr ⇀ : 『 [𝐑𝐀𝐉](t.me/JaiHindChatting) 』\n╭──────────────\n┣─ » Python ~ 3.8.6\n┣─ » Update ~ Recently\n╰──────────────\n\n»»» 😈🇮🇳😈🇮🇳😈 «««"
+REPO_TEXT = "**😋A Powerful [BOT](t.me/Tiranga_BOT) to Make Your Groups Secured and OP😂 ! \n\n↼ Øwñêr ⇀ : 『 [🇮🇳]𝐂𝐋𝐀𝐍🇽𝐋𝐎𝐑𝐃🔱 ](t.me/friends-chattting_world) 』\n╭──────────────\n┣─ » Python ~ 3.8.6\n┣─ » Update ~ Recently\n╰──────────────\n\n»»» 😈🇮🇳😈🇮🇳😈 «««"
   
 BUTTONS = InlineKeyboardMarkup(
       [[
-        InlineKeyboardButton("⚡ ʀᴇᴘᴏꜱɪᴛᴏʀʏ🔥", url=f"https://github.com/rakeshyt/TrishaManager"),
+        InlineKeyboardButton("⚡ ʀᴇᴘᴏꜱɪᴛᴏʀʏ🔥", url=f"https://github.com/clanlord7/Tiranga-bot"),
       ],[
-        InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ⚡", url="https://t.me/JaiHindChatting"),
+        InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ⚡", url="https://t.me/Friends_chatting_world"),
       ]]
     )
   
