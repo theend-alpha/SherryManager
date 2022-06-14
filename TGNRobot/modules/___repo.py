@@ -9,7 +9,7 @@ import os
 
  BUTTONS = InlineKeyboardMarkup(
        [[
-         InlineKeyboardButton("⚡ ʏᴏᴜᴛᴜʙᴇ 🔥", url=f"https://m.youtube.com/c/ALPHAFREEFIREE"),
+         InlineKeyboardButton("⚡ ʏᴏᴜᴛᴜʙᴇ 🔥", url=f"https://www.youtube.com/channel/UCinfnBzi83lI-VzXDfKhsWQ/"),
        ],[
          InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ⚡", url="https://t.me/group_for_chatting_india"),
        ]]
