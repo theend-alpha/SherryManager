@@ -3,14 +3,14 @@ from asyncio import gather, sleep
 from pyrogram import filters
 from pyrogram.types import Message
 
-from Tianabot import (
+from TGNRobot import (
     BOT_ID,
     arq,
     eor,
 )
-from Tianabot import pbot as app
-from Tianabot.utils.errors import capture_err
-from Tianabot.utils.filter_groups import chatbot_group
+from TGNRobot import pbot as app
+from TGNRobot.utils.errors import capture_err
+chatbot_group=2
 
 __mod_name__ = "Cʜᴀᴛ-Bᴏᴛ"
 __help__ = """
